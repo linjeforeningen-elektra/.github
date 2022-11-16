@@ -1,5 +1,5 @@
 # Linjeforeningen Elektra
-We are student organization located in Trondheim, Norway. This is where we keep our collaborative coding
+We are student organization located at NTNU in Trondheim, Norway. This is where we keep our collaborative coding
 
 * Website: https://elektra.io/
 * Facebook: https://www.facebook.com/elektraNTNU
